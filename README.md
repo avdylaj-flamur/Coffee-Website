@@ -1,24 +1,21 @@
-A responsive single-page coffee shop site built with HTML, CSS, and  JavaScript.
-It includes a hero header, about, menu, testimonials (Swiper slider), gallery, contact form, and footer.
+## Screenshots
 
- Features
+### Home
+![Home](images/screenshots/Home.png)
 
-Sticky top navbar with smooth section links
+### About
+![About](images/screenshots/About.png)
 
-Mobile menu  with overlay + click-to-close
+### Menu
+![Menu 1](images/screenshots/Menu-1.png)
+![Menu 2](images/screenshots/Menu-2.png)
 
-Hero section with CTAs (“Order Now”, “Contact Us”)
+### Gallery
+![Gallery](images/screenshots/Gallery.png)
 
-About section with circular photo + social icons
+### Testimonials
+![Testimonials 1](images/screenshots/Testimonials-1.png)
+![Testimonials 2](images/screenshots/Testimonials-2.png)
 
-Menu grid (6 categories) with responsive layout
-
-Testimonials carousel using Swiper.js (pagination + arrows + breakpoints)
-
-Gallery with hover zoom
-
-Contact section with address, email, phone, hours, and a simple form
-
-Clean, modern styling with CSS variables and Google Fonts (Poppins, Miniver)
-
-Responsive breakpoints at 1024px / 900px / 640px
+### Contact
+![Contact](images/screenshots/Contact-Us.png)
